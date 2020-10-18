@@ -16,7 +16,9 @@ verification(second_number)
 third_number = float(input('And, finally, insert the third number.\n'))
 verification(third_number)
 
+# Sort the list in ascending order
 asc_order.sort(reverse=False)
 
+# Shows up the list
 print(asc_order)
 
